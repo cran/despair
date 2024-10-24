@@ -1,7 +1,7 @@
 Package: despair
 Title: Motivational Quotes and Shakespearean Bard–bits for Personal
         Projects
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     person("JP", "Monteagudo", 
     email = "jpmonteagudo2014@gmail.com", 
@@ -19,8 +19,8 @@ Suggests: spelling, testthat (>= 3.0.0)
 Config/testthat/edition: 3
 Language: en-US
 NeedsCompilation: no
-Packaged: 2024-08-02 19:20:28 UTC; jpmonteagudo
+Packaged: 2024-10-24 00:33:48 UTC; jpmonteagudo
 Author: JP Monteagudo [aut, cre, cph] (<https://orcid.org/0009-0003-6465-6658>)
 Depends: R (>= 3.5.0)
 Repository: CRAN
-Date/Publication: 2024-08-22 15:50:02 UTC
+Date/Publication: 2024-10-24 02:30:02 UTC

@@ -41,6 +41,7 @@ demotivate <- function(cat = "any",
 
     set.seed(NULL)
   } else {
+
     if (is.numeric(seed)){
       set.seed(seed)
     }
@@ -66,7 +67,7 @@ demotivate <- function(cat = "any",
     my_quote <- sample(tv$values,1)
   }
   if(cat == "rednecks"){
-    my_red_quote <- sample(rednecks$values,1)
+    my_quote <- sample(rednecks$values,1)
   }
   if(cat == "family"){
     my_quote <- sample(family$values,1)
